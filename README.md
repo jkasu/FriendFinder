@@ -57,4 +57,5 @@ User 2: [3, 2, 6, 4, 5, 1, 2, 5, 4, 1]
 Total Difference: 2 + 1 + 2 = 5 Remember to use the absolute value of the differences (i.e 5-3 and 3-5 should both be 2). The person with the closest match should be the one with the "least" amount of difference. Once you've determined the closest match, display the result back to the user in the form of a modal pop-up.
 
 The result should display both the name and picture of the closest match.
+
 Try this link : https://floating-hamlet-42177.herokuapp.com/
